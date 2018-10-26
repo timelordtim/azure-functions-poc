@@ -5,6 +5,7 @@ build/
 obj/
 [Rr]elease*/
 _ReSharper*/
+.vscode/
 [Tt]est[Rr]esult
 [Bb]uild[Ll]og.*
 *.swp
